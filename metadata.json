@@ -1,0 +1,8 @@
+{
+  "name": "Mundo+ Custos",
+  "description": "Controle de custos, CMV e estoque para açaiterias com Laboratório de Leitura de Documentos multimodal via Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
